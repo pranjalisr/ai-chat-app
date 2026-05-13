@@ -113,7 +113,7 @@ AI_API_KEY=your_api_key_here
 Update the API route according to the AI provider you are using.
 
 ### Core Functionality
-### Chat Interface
+# Chat Interface
 
 The chat interface supports:
 
@@ -121,20 +121,22 @@ The chat interface supports:
 - Streaming assistant replies
 - Copying messages
 - Showing loading state
-Stopping response generation
-Regenerating the latest response
-Auto-scrolling to the newest message
-Chat Sessions
+- Stopping response generation
+- Regenerating the latest response
+- Auto-scrolling to the newest message
+
+# Chat Sessions
 
 The app supports multiple conversations. Each session contains:
 
-Unique session ID
-Chat title
-Messages
-Last message preview
-Created timestamp
-Updated timestamp
-Import and Export
+- Unique session ID
+- Chat title
+- Messages
+- Last message preview
+- Created timestamp
+- Updated timestamp
+
+# Import and Export
 
 Users can export chat history as a .json file and import it again later.
 This makes it easy to back up conversations or move them between browsers.
