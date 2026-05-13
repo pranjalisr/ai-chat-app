@@ -112,8 +112,8 @@ AI_API_KEY=your_api_key_here
 ```
 Update the API route according to the AI provider you are using.
 
-### Core Functionality
-# Chat Interface
+# Core Functionality
+## Chat Interface
 
 The chat interface supports:
 
@@ -125,7 +125,7 @@ The chat interface supports:
 - Regenerating the latest response
 - Auto-scrolling to the newest message
 
-# Chat Sessions
+## Chat Sessions
 
 The app supports multiple conversations. Each session contains:
 
@@ -136,7 +136,7 @@ The app supports multiple conversations. Each session contains:
 - Created timestamp
 - Updated timestamp
 
-# Import and Export
+## Import and Export
 
 - Users can export chat history as a `.json` file and import it again later.
 This makes it easy to back up conversations or move them between browsers.
@@ -170,6 +170,6 @@ pnpm build
 ```
 Then connect the GitHub repository to Vercel and add the required environment variables.
 
-License
+## License
 
 This project is open-source and available under the MIT License.
