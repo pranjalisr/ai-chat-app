@@ -93,16 +93,16 @@ Runs the app in development mode.
 pnpm build
 ```
 Builds the app for production.
-
+```
 pnpm start
-
+```
 Starts the production server.
-
+```
 pnpm lint
-
+```
 Runs lint checks.
 
-Environment Variables
+- Environment Variables
 
 Create a .env.local file in the root directory.
 
