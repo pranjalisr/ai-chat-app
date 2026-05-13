@@ -104,12 +104,12 @@ Runs lint checks.
 
 - Environment Variables
 
-Create a .env.local file in the root directory.
+Create a `.env.local` file in the root directory.
 
 Example:
-
+```
 AI_API_KEY=your_api_key_here
-
+```
 Update the API route according to the AI provider you are using.
 
 Core Functionality
