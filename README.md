@@ -72,10 +72,10 @@ git clone https://github.com/pranjalisr/ai-chat-app.git
 cd ai-chat-app
 ```
 
-Install dependencies:
-
+- Install dependencies:
+```
 pnpm install
-
+```
 Start the development server:
 
 pnpm dev
