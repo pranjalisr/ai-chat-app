@@ -67,9 +67,10 @@ Chat sessions are stored locally in the browser, so users can return to previous
 ## Installation
 
 - Clone the repository:
-
+```
 git clone https://github.com/pranjalisr/ai-chat-app.git
 cd ai-chat-app
+```
 
 Install dependencies:
 
