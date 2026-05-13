@@ -142,12 +142,12 @@ The app supports multiple conversations. Each session contains:
 This makes it easy to back up conversations or move them between browsers.
 
 ## Use Cases
-Personal AI assistant
-Coding help chatbot
-Project planning assistant
-Debugging helper
-Learning companion
-AI-powered productivity tool
+- Personal AI assistant
+- Coding help chatbot
+- Project planning assistant
+- Debugging helper
+- Learning companion
+- AI-powered productivity tool
 Future Improvements
 Add authentication
 Store conversations in a database
