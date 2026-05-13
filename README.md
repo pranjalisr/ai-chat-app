@@ -57,10 +57,10 @@ ai-chat-app/
 ├── tailwind.config.ts
 └── tsconfig.json
 ```
-How It Works
+## How It Works
 
 The app allows users to start a conversation with an AI assistant.
-When a message is sent, the frontend sends the conversation history to the /api/chat endpoint and receives a streamed response.
+When a message is sent, the frontend sends the conversation history to the `/api/chat` endpoint and receives a streamed response.
 
 Chat sessions are stored locally in the browser, so users can return to previous conversations without needing a database. Users can also export their chat history as a JSON file and import it later.
 
