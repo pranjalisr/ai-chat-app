@@ -64,9 +64,9 @@ When a message is sent, the frontend sends the conversation history to the `/api
 
 Chat sessions are stored locally in the browser, so users can return to previous conversations without needing a database. Users can also export their chat history as a JSON file and import it later.
 
-Installation
+## Installation
 
-Clone the repository:
+- Clone the repository:
 
 git clone https://github.com/pranjalisr/ai-chat-app.git
 cd ai-chat-app
