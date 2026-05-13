@@ -138,10 +138,10 @@ The app supports multiple conversations. Each session contains:
 
 # Import and Export
 
-Users can export chat history as a .json file and import it again later.
+- Users can export chat history as a `.json` file and import it again later.
 This makes it easy to back up conversations or move them between browsers.
 
-Use Cases
+## Use Cases
 Personal AI assistant
 Coding help chatbot
 Project planning assistant
@@ -161,22 +161,14 @@ Add user profile and settings page
 Deploy with a production-ready backend API
 Screenshots
 
-Add screenshots here:
 
-![AI Chat App Screenshot](./public/screenshot.png)
-Deployment
+## Deployment
 
 The app can be deployed easily on Vercel.
-
+```
 pnpm build
-
+```
 Then connect the GitHub repository to Vercel and add the required environment variables.
-
-Author
-
-Pranjali Srivastava
-
-GitHub: @pranjalisr
 
 License
 
