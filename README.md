@@ -76,13 +76,14 @@ cd ai-chat-app
 ```
 pnpm install
 ```
-Start the development server:
-
+- Start the development server:
+```
 pnpm dev
-
-Open the app in your browser:
-
+```
+- Open the app in your browser:
+```
 http://localhost:3000
+```
 Available Scripts
 pnpm dev
 
