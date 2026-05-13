@@ -84,13 +84,14 @@ pnpm dev
 ```
 http://localhost:3000
 ```
-Available Scripts
+- Available Scripts
+```
 pnpm dev
-
+```
 Runs the app in development mode.
-
+```
 pnpm build
-
+```
 Builds the app for production.
 
 pnpm start
