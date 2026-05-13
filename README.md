@@ -112,15 +112,15 @@ AI_API_KEY=your_api_key_here
 ```
 Update the API route according to the AI provider you are using.
 
-Core Functionality
-Chat Interface
+### Core Functionality
+### Chat Interface
 
 The chat interface supports:
 
-Sending messages
-Streaming assistant replies
-Copying messages
-Showing loading state
+- Sending messages
+- Streaming assistant replies
+- Copying messages
+- Showing loading state
 Stopping response generation
 Regenerating the latest response
 Auto-scrolling to the newest message
