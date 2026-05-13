@@ -148,18 +148,17 @@ This makes it easy to back up conversations or move them between browsers.
 - Debugging helper
 - Learning companion
 - AI-powered productivity tool
-Future Improvements
-Add authentication
-Store conversations in a database
-Add support for multiple AI models
-Add markdown rendering for assistant messages
-Add syntax highlighting for code blocks
-Add file upload support
-Add voice input
-Add dark/light theme toggle
-Add user profile and settings page
-Deploy with a production-ready backend API
-Screenshots
+- Future Improvements
+- Add authentication
+- Store conversations in a database
+- Add support for multiple AI models
+- Add markdown rendering for assistant messages
+- Add syntax highlighting for code blocks
+- Add file upload support
+- Add voice input
+- Add dark/light theme toggle
+- Add user profile and settings page
+- Deploy with a production-ready backend API
 
 
 ## Deployment
